@@ -1,0 +1,8 @@
+docxtpl
+python-docx
+aiosqlite
+
+# Source readers exposed by the shipped upload workflow:
+openpyxl
+python-pptx
+pypdf
